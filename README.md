@@ -93,6 +93,6 @@ Memoria de título orientada a predecir la demanda de una empresa de retail de m
 ## Formación
 
 **Ingeniería Comercial con Licenciatura en Ciencias de la Administración**  
-Universidad Técnica Federico Santa María · Titulado en octubre de 2026
+Universidad Técnica Federico Santa María · Titulado en septiembre de 2026
 
 **Idiomas:** Español nativo · Inglés intermedio
