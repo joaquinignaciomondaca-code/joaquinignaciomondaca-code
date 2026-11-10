@@ -3,6 +3,12 @@
 **Ingeniero Comercial | Data Analytics · Automatización · Inteligencia Artificial**  
 Santiago, Chile
 
+Proyectos en **datos financieros públicos de Chile**, analítica y pronóstico de demanda:
+[SIF Chile — plataforma](https://joaquinignaciomondaca-code.github.io/Sistema_de_Informacion_Financiera_de_Chile/) ·
+[código SIF](https://github.com/joaquinignaciomondaca-code/Sistema_de_Informacion_Financiera_de_Chile) ·
+[código de tesis de pronóstico jerárquico](https://github.com/joaquinignaciomondaca-code/Pronostico-Jerarquico-de-Demanda-Intermitente-en-el-Retail-de-Moda-Femenina-main) ·
+[ficha académica USM](https://repositorio.usm.cl/entities/tesis/e441d202-31da-47a7-b5bd-89cc4b9f702f)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Joaquín_Mondaca-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaqu%C3%ADnmondaca/)
 [![Email](https://img.shields.io/badge/Email-Contacto-30363D?style=flat&logo=gmail&logoColor=white)](mailto:joaquinmondacaparada@gmail.com)
 [![SIF](https://img.shields.io/badge/Proyecto-SIF-123B5D?style=flat)](https://joaquinignaciomondaca-code.github.io/Sistema_de_Informacion_Financiera_de_Chile/)
@@ -57,7 +63,7 @@ Memoria de título orientada a predecir la demanda de una empresa de retail de m
 
 **Tecnologías:** Python · Pandas · Machine Learning · Series temporales · Modelamiento predictivo
 
-[Ver repositorio](https://github.com/joaquinignaciomondaca-code/Pronostico-Jerarquico-de-Demanda-Intermitente-en-el-Retail-de-Moda-Femenina-main)
+[Ver código en GitHub](https://github.com/joaquinignaciomondaca-code/Pronostico-Jerarquico-de-Demanda-Intermitente-en-el-Retail-de-Moda-Femenina-main) · [consultar memoria en el repositorio institucional de la USM](https://repositorio.usm.cl/entities/tesis/e441d202-31da-47a7-b5bd-89cc4b9f702f)
 
 ## Experiencia relevante
 
